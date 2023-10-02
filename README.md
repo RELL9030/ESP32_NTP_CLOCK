@@ -4,3 +4,6 @@ Uso de esp32 y pantalla LCD 16x2 para mostrar el tiempo mediante servidor NTP ([
 
 ![simulation](simulation.jpg 'Simulation')
 ![simulation](simulation.jpg "Simulation"){height="360px" width="360px"}.
+
+[simulation]: simulation.jpg
+{: height="36px" width="36px"}
